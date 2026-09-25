@@ -8,7 +8,7 @@ export default function Home() {
         <div className="max-w-6xl mx-auto px-4 py-20 text-center">
           <img src="/logo.png" alt="UpSkilliT logo" className="h-20 w-auto mx-auto mb-6" />
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900">
-            Welcome to UpSkilliT Home
+            Welcome to Empower Code Pipeline demo -  We changed this and caused a rollback
           </h1>
           <p className="mt-4 text-lg text-purple-700 font-medium">Transform Your IT Skills</p>
           <p className="mt-4 max-w-2xl mx-auto text-gray-600">
